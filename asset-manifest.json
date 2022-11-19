@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ampCMP/static/css/main.95da6f4c.css",
+    "main.css": "/ampCMP/static/css/main.f065adc2.css",
     "main.js": "/ampCMP/static/js/main.08be8fd3.js",
     "static/media/background.png": "/ampCMP/static/media/background.d5204ec37dd2753bc65b.png",
     "static/media/mobile.png": "/ampCMP/static/media/mobile.8b01e0451e27289a81ad.png",
     "index.html": "/ampCMP/index.html",
-    "main.95da6f4c.css.map": "/ampCMP/static/css/main.95da6f4c.css.map",
+    "main.f065adc2.css.map": "/ampCMP/static/css/main.f065adc2.css.map",
     "main.08be8fd3.js.map": "/ampCMP/static/js/main.08be8fd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.95da6f4c.css",
+    "static/css/main.f065adc2.css",
     "static/js/main.08be8fd3.js"
   ]
 }
