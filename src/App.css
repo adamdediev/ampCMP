@@ -6,6 +6,10 @@ body{
     padding: 0px;
     color: #E4E5EA;
     background: #0e1014;
+    -ms-user-select: none; 
+	-moz-user-select: none; 
+	-webkit-user-select: none; 
+	user-select: none;
     
 }
 
